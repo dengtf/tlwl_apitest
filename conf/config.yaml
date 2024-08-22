@@ -1,0 +1,13 @@
+env: test
+test:
+  host: 'https://tbms.taoliweilai.com'
+  account:
+    user: '19129508913'
+    pwd: 'VddXq/v6e9GFoTjB412ghUuwv11/XoHZzEhNIS5ZVlmzjGaGbHnW8CjuFU0KgSHKiCRQNuyzzFLl7JesgXVEPRasE0e9IalYubripOwBWK6u+OvTIUIgTpW7wwZweEPX1nx2IUdZWmk0ZvEHqeW1uIee5TrqSztm/2A+9RE0xio='
+  
+release:
+  host: 'https://pbms.taoliweilai.com'
+  account:
+    user: 'sadmin'
+    pwd: '123456'
+

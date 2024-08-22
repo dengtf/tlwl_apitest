@@ -1,0 +1,266 @@
+2024-05-10 10:14:05 [MainProcess]-[MainThread]-[_printer.wrapper:18]-[INFO]:*************************************🧩 开始初始化环境 🧩*************************************
+2024-05-10 10:14:39 [MainProcess]-[MainThread]-[_printer.wrapper:18]-[INFO]:*************************************🧩 开始初始化环境 🧩*************************************
+2024-05-10 10:14:39 [MainProcess]-[MainThread]-[cache.set:26]-[DEBUG]:config全局配置已加载=====>key: run_mode, value: "main"
+2024-05-10 10:14:39 [MainProcess]-[MainThread]-[cache.set:26]-[DEBUG]:config全局配置已加载=====>key: current_env, value: "test"
+2024-05-10 10:14:39 [MainProcess]-[MainThread]-[cache.set:26]-[DEBUG]:config全局配置已加载=====>key: host, value: "https://tbms.taoliweilai.com"
+2024-05-10 10:14:39 [MainProcess]-[MainThread]-[cache.set:26]-[DEBUG]:config全局配置已加载=====>key: account, value: {"user": "19129508913", "pwd": "VddXq/v6e9GFoTjB412ghUuwv11/XoHZzEhNIS5ZVlmzjGaGbHnW8CjuFU0KgSHKiCRQNuyzzFLl7JesgXVEPRasE0e9IalYubripOwBWK6u+OvTIUIgTpW7wwZweEPX1nx2IUdZWmk0ZvEHqeW1uIee5TrqSztm/2A+9RE0xio="}
+2024-05-10 10:32:11 [MainProcess]-[MainThread]-[_printer.wrapper:18]-[INFO]:*************************************🧩 开始初始化环境 🧩*************************************
+2024-05-10 10:32:11 [MainProcess]-[MainThread]-[cache.set:26]-[DEBUG]:config全局配置已加载=====>key: run_mode, value: "main"
+2024-05-10 10:32:11 [MainProcess]-[MainThread]-[cache.set:26]-[DEBUG]:config全局配置已加载=====>key: current_env, value: "test"
+2024-05-10 10:32:11 [MainProcess]-[MainThread]-[cache.set:26]-[DEBUG]:config全局配置已加载=====>key: host, value: "https://tbms.taoliweilai.com"
+2024-05-10 10:32:11 [MainProcess]-[MainThread]-[cache.set:26]-[DEBUG]:config全局配置已加载=====>key: account, value: {"user": "19129508913", "pwd": "VddXq/v6e9GFoTjB412ghUuwv11/XoHZzEhNIS5ZVlmzjGaGbHnW8CjuFU0KgSHKiCRQNuyzzFLl7JesgXVEPRasE0e9IalYubripOwBWK6u+OvTIUIgTpW7wwZweEPX1nx2IUdZWmk0ZvEHqeW1uIee5TrqSztm/2A+9RE0xio="}
+2024-05-10 10:34:32 [MainProcess]-[MainThread]-[_printer.wrapper:18]-[INFO]:*************************************🧩 开始初始化环境 🧩*************************************
+2024-05-10 10:34:32 [MainProcess]-[MainThread]-[cache.set:26]-[DEBUG]:config全局配置已加载=====>key: run_mode, value: "main"
+2024-05-10 10:34:32 [MainProcess]-[MainThread]-[cache.set:26]-[DEBUG]:config全局配置已加载=====>key: current_env, value: "test"
+2024-05-10 10:34:32 [MainProcess]-[MainThread]-[cache.set:26]-[DEBUG]:config全局配置已加载=====>key: host, value: "https://tbms.taoliweilai.com"
+2024-05-10 10:34:32 [MainProcess]-[MainThread]-[cache.set:26]-[DEBUG]:config全局配置已加载=====>key: account, value: {"user": "19129508913", "pwd": "VddXq/v6e9GFoTjB412ghUuwv11/XoHZzEhNIS5ZVlmzjGaGbHnW8CjuFU0KgSHKiCRQNuyzzFLl7JesgXVEPRasE0e9IalYubripOwBWK6u+OvTIUIgTpW7wwZweEPX1nx2IUdZWmk0ZvEHqeW1uIee5TrqSztm/2A+9RE0xio="}
+2024-05-10 10:39:48 [MainProcess]-[MainThread]-[_printer.wrapper:18]-[INFO]:*************************************🧩 开始初始化环境 🧩*************************************
+2024-05-10 10:39:48 [MainProcess]-[MainThread]-[cache.set:26]-[DEBUG]:config全局配置已加载=====>key: run_mode, value: "main"
+2024-05-10 10:39:48 [MainProcess]-[MainThread]-[cache.set:26]-[DEBUG]:config全局配置已加载=====>key: current_env, value: "test"
+2024-05-10 10:39:48 [MainProcess]-[MainThread]-[cache.set:26]-[DEBUG]:config全局配置已加载=====>key: host, value: "https://tbms.taoliweilai.com"
+2024-05-10 10:39:48 [MainProcess]-[MainThread]-[cache.set:26]-[DEBUG]:config全局配置已加载=====>key: account, value: {"user": "19129508913", "pwd": "VddXq/v6e9GFoTjB412ghUuwv11/XoHZzEhNIS5ZVlmzjGaGbHnW8CjuFU0KgSHKiCRQNuyzzFLl7JesgXVEPRasE0e9IalYubripOwBWK6u+OvTIUIgTpW7wwZweEPX1nx2IUdZWmk0ZvEHqeW1uIee5TrqSztm/2A+9RE0xio="}
+2024-05-10 14:30:57 [MainProcess]-[MainThread]-[_printer.wrapper:18]-[INFO]:*************************************🧩 开始初始化环境 🧩*************************************
+2024-05-10 14:30:57 [MainProcess]-[MainThread]-[cache.set:26]-[DEBUG]:config全局配置已加载=====>key: run_mode, value: "main"
+2024-05-10 14:30:57 [MainProcess]-[MainThread]-[cache.set:26]-[DEBUG]:config全局配置已加载=====>key: current_env, value: "test"
+2024-05-10 14:30:57 [MainProcess]-[MainThread]-[cache.set:26]-[DEBUG]:config全局配置已加载=====>key: host, value: "https://tbms.taoliweilai.com"
+2024-05-10 14:30:57 [MainProcess]-[MainThread]-[cache.set:26]-[DEBUG]:config全局配置已加载=====>key: account, value: {"user": "19129508913", "pwd": "VddXq/v6e9GFoTjB412ghUuwv11/XoHZzEhNIS5ZVlmzjGaGbHnW8CjuFU0KgSHKiCRQNuyzzFLl7JesgXVEPRasE0e9IalYubripOwBWK6u+OvTIUIgTpW7wwZweEPX1nx2IUdZWmk0ZvEHqeW1uIee5TrqSztm/2A+9RE0xio="}
+2024-05-10 14:33:17 [MainProcess]-[MainThread]-[_printer.wrapper:18]-[INFO]:*************************************🧩 开始初始化环境 🧩*************************************
+2024-05-10 14:33:17 [MainProcess]-[MainThread]-[cache.set:26]-[DEBUG]:config全局配置已加载=====>key: run_mode, value: "main"
+2024-05-10 14:33:17 [MainProcess]-[MainThread]-[cache.set:26]-[DEBUG]:config全局配置已加载=====>key: current_env, value: "test"
+2024-05-10 14:33:17 [MainProcess]-[MainThread]-[cache.set:26]-[DEBUG]:config全局配置已加载=====>key: host, value: "https://tbms.taoliweilai.com"
+2024-05-10 14:33:17 [MainProcess]-[MainThread]-[cache.set:26]-[DEBUG]:config全局配置已加载=====>key: account, value: {"user": "19129508913", "pwd": "VddXq/v6e9GFoTjB412ghUuwv11/XoHZzEhNIS5ZVlmzjGaGbHnW8CjuFU0KgSHKiCRQNuyzzFLl7JesgXVEPRasE0e9IalYubripOwBWK6u+OvTIUIgTpW7wwZweEPX1nx2IUdZWmk0ZvEHqeW1uIee5TrqSztm/2A+9RE0xio="}
+2024-05-10 15:08:55 [MainProcess]-[MainThread]-[_printer.wrapper:18]-[INFO]:*************************************🧩 开始初始化环境 🧩*************************************
+2024-05-10 15:08:55 [MainProcess]-[MainThread]-[cache.set:26]-[DEBUG]:config全局配置已加载=====>key: run_mode, value: "main"
+2024-05-10 15:08:55 [MainProcess]-[MainThread]-[cache.set:26]-[DEBUG]:config全局配置已加载=====>key: current_env, value: "test"
+2024-05-10 15:08:55 [MainProcess]-[MainThread]-[cache.set:26]-[DEBUG]:config全局配置已加载=====>key: host, value: "https://tbms.taoliweilai.com"
+2024-05-10 15:08:55 [MainProcess]-[MainThread]-[cache.set:26]-[DEBUG]:config全局配置已加载=====>key: account, value: {"user": "19129508913", "pwd": "VddXq/v6e9GFoTjB412ghUuwv11/XoHZzEhNIS5ZVlmzjGaGbHnW8CjuFU0KgSHKiCRQNuyzzFLl7JesgXVEPRasE0e9IalYubripOwBWK6u+OvTIUIgTpW7wwZweEPX1nx2IUdZWmk0ZvEHqeW1uIee5TrqSztm/2A+9RE0xio="}
+2024-05-10 15:16:05 [MainProcess]-[MainThread]-[_printer.wrapper:18]-[INFO]:*************************************🧩 开始初始化环境 🧩*************************************
+2024-05-10 15:16:05 [MainProcess]-[MainThread]-[cache.set:26]-[DEBUG]:config全局配置已加载=====>key: run_mode, value: "main"
+2024-05-10 15:16:05 [MainProcess]-[MainThread]-[cache.set:26]-[DEBUG]:config全局配置已加载=====>key: current_env, value: "test"
+2024-05-10 15:16:05 [MainProcess]-[MainThread]-[cache.set:26]-[DEBUG]:config全局配置已加载=====>key: host, value: "https://tbms.taoliweilai.com"
+2024-05-10 15:16:05 [MainProcess]-[MainThread]-[cache.set:26]-[DEBUG]:config全局配置已加载=====>key: account, value: {"user": "19129508913", "pwd": "VddXq/v6e9GFoTjB412ghUuwv11/XoHZzEhNIS5ZVlmzjGaGbHnW8CjuFU0KgSHKiCRQNuyzzFLl7JesgXVEPRasE0e9IalYubripOwBWK6u+OvTIUIgTpW7wwZweEPX1nx2IUdZWmk0ZvEHqeW1uIee5TrqSztm/2A+9RE0xio="}
+2024-05-10 15:18:31 [MainProcess]-[MainThread]-[_printer.wrapper:18]-[INFO]:*************************************🧩 开始初始化环境 🧩*************************************
+2024-05-10 15:18:31 [MainProcess]-[MainThread]-[cache.set:26]-[DEBUG]:config全局配置已加载=====>key: run_mode, value: "main"
+2024-05-10 15:18:31 [MainProcess]-[MainThread]-[cache.set:26]-[DEBUG]:config全局配置已加载=====>key: current_env, value: "test"
+2024-05-10 15:18:31 [MainProcess]-[MainThread]-[cache.set:26]-[DEBUG]:config全局配置已加载=====>key: host, value: "https://tbms.taoliweilai.com"
+2024-05-10 15:18:31 [MainProcess]-[MainThread]-[cache.set:26]-[DEBUG]:config全局配置已加载=====>key: account, value: {"user": "19129508913", "pwd": "VddXq/v6e9GFoTjB412ghUuwv11/XoHZzEhNIS5ZVlmzjGaGbHnW8CjuFU0KgSHKiCRQNuyzzFLl7JesgXVEPRasE0e9IalYubripOwBWK6u+OvTIUIgTpW7wwZweEPX1nx2IUdZWmk0ZvEHqeW1uIee5TrqSztm/2A+9RE0xio="}
+2024-05-10 15:19:32 [MainProcess]-[MainThread]-[_printer.wrapper:18]-[INFO]:*************************************🧩 开始初始化环境 🧩*************************************
+2024-05-10 15:19:32 [MainProcess]-[MainThread]-[cache.set:26]-[DEBUG]:config全局配置已加载=====>key: run_mode, value: "main"
+2024-05-10 15:19:32 [MainProcess]-[MainThread]-[cache.set:26]-[DEBUG]:config全局配置已加载=====>key: current_env, value: "test"
+2024-05-10 15:19:32 [MainProcess]-[MainThread]-[cache.set:26]-[DEBUG]:config全局配置已加载=====>key: host, value: "https://tbms.taoliweilai.com"
+2024-05-10 15:19:32 [MainProcess]-[MainThread]-[cache.set:26]-[DEBUG]:config全局配置已加载=====>key: account, value: {"user": "19129508913", "pwd": "VddXq/v6e9GFoTjB412ghUuwv11/XoHZzEhNIS5ZVlmzjGaGbHnW8CjuFU0KgSHKiCRQNuyzzFLl7JesgXVEPRasE0e9IalYubripOwBWK6u+OvTIUIgTpW7wwZweEPX1nx2IUdZWmk0ZvEHqeW1uIee5TrqSztm/2A+9RE0xio="}
+2024-05-10 15:22:32 [MainProcess]-[MainThread]-[_printer.wrapper:18]-[INFO]:*************************************🧩 开始初始化环境 🧩*************************************
+2024-05-10 15:22:32 [MainProcess]-[MainThread]-[cache.set:26]-[DEBUG]:config全局配置已加载=====>key: run_mode, value: "main"
+2024-05-10 15:22:32 [MainProcess]-[MainThread]-[cache.set:26]-[DEBUG]:config全局配置已加载=====>key: current_env, value: "test"
+2024-05-10 15:22:32 [MainProcess]-[MainThread]-[cache.set:26]-[DEBUG]:config全局配置已加载=====>key: host, value: "https://tbms.taoliweilai.com"
+2024-05-10 15:22:32 [MainProcess]-[MainThread]-[cache.set:26]-[DEBUG]:config全局配置已加载=====>key: account, value: {"user": "19129508913", "pwd": "VddXq/v6e9GFoTjB412ghUuwv11/XoHZzEhNIS5ZVlmzjGaGbHnW8CjuFU0KgSHKiCRQNuyzzFLl7JesgXVEPRasE0e9IalYubripOwBWK6u+OvTIUIgTpW7wwZweEPX1nx2IUdZWmk0ZvEHqeW1uIee5TrqSztm/2A+9RE0xio="}
+2024-05-10 15:24:16 [MainProcess]-[MainThread]-[_printer.wrapper:18]-[INFO]:*************************************🧩 开始初始化环境 🧩*************************************
+2024-05-10 15:24:16 [MainProcess]-[MainThread]-[cache.set:26]-[DEBUG]:config全局配置已加载=====>key: run_mode, value: "main"
+2024-05-10 15:24:16 [MainProcess]-[MainThread]-[cache.set:26]-[DEBUG]:config全局配置已加载=====>key: current_env, value: "test"
+2024-05-10 15:24:16 [MainProcess]-[MainThread]-[cache.set:26]-[DEBUG]:config全局配置已加载=====>key: host, value: "https://tbms.taoliweilai.com"
+2024-05-10 15:24:16 [MainProcess]-[MainThread]-[cache.set:26]-[DEBUG]:config全局配置已加载=====>key: account, value: {"user": "19129508913", "pwd": "VddXq/v6e9GFoTjB412ghUuwv11/XoHZzEhNIS5ZVlmzjGaGbHnW8CjuFU0KgSHKiCRQNuyzzFLl7JesgXVEPRasE0e9IalYubripOwBWK6u+OvTIUIgTpW7wwZweEPX1nx2IUdZWmk0ZvEHqeW1uIee5TrqSztm/2A+9RE0xio="}
+2024-05-10 15:33:29 [MainProcess]-[MainThread]-[_printer.wrapper:18]-[INFO]:*************************************🧩 开始初始化环境 🧩*************************************
+2024-05-10 15:33:29 [MainProcess]-[MainThread]-[cache.set:26]-[DEBUG]:config全局配置已加载=====>key: run_mode, value: "main"
+2024-05-10 15:33:29 [MainProcess]-[MainThread]-[cache.set:26]-[DEBUG]:config全局配置已加载=====>key: current_env, value: "test"
+2024-05-10 15:33:29 [MainProcess]-[MainThread]-[cache.set:26]-[DEBUG]:config全局配置已加载=====>key: host, value: "https://tbms.taoliweilai.com"
+2024-05-10 15:33:29 [MainProcess]-[MainThread]-[cache.set:26]-[DEBUG]:config全局配置已加载=====>key: account, value: {"user": "19129508913", "pwd": "VddXq/v6e9GFoTjB412ghUuwv11/XoHZzEhNIS5ZVlmzjGaGbHnW8CjuFU0KgSHKiCRQNuyzzFLl7JesgXVEPRasE0e9IalYubripOwBWK6u+OvTIUIgTpW7wwZweEPX1nx2IUdZWmk0ZvEHqeW1uIee5TrqSztm/2A+9RE0xio="}
+2024-05-10 15:36:09 [MainProcess]-[MainThread]-[_printer.wrapper:18]-[INFO]:*************************************🧩 开始初始化环境 🧩*************************************
+2024-05-10 15:36:09 [MainProcess]-[MainThread]-[cache.set:26]-[DEBUG]:config全局配置已加载=====>key: run_mode, value: "main"
+2024-05-10 15:36:09 [MainProcess]-[MainThread]-[cache.set:26]-[DEBUG]:config全局配置已加载=====>key: current_env, value: "test"
+2024-05-10 15:36:09 [MainProcess]-[MainThread]-[cache.set:26]-[DEBUG]:config全局配置已加载=====>key: host, value: "https://tbms.taoliweilai.com"
+2024-05-10 15:36:09 [MainProcess]-[MainThread]-[cache.set:26]-[DEBUG]:config全局配置已加载=====>key: account, value: {"user": "19129508913", "pwd": "VddXq/v6e9GFoTjB412ghUuwv11/XoHZzEhNIS5ZVlmzjGaGbHnW8CjuFU0KgSHKiCRQNuyzzFLl7JesgXVEPRasE0e9IalYubripOwBWK6u+OvTIUIgTpW7wwZweEPX1nx2IUdZWmk0ZvEHqeW1uIee5TrqSztm/2A+9RE0xio="}
+2024-05-10 15:36:57 [MainProcess]-[MainThread]-[_printer.wrapper:18]-[INFO]:*************************************🧩 开始初始化环境 🧩*************************************
+2024-05-10 15:36:57 [MainProcess]-[MainThread]-[cache.set:26]-[DEBUG]:config全局配置已加载=====>key: run_mode, value: "main"
+2024-05-10 15:36:57 [MainProcess]-[MainThread]-[cache.set:26]-[DEBUG]:config全局配置已加载=====>key: current_env, value: "test"
+2024-05-10 15:36:57 [MainProcess]-[MainThread]-[cache.set:26]-[DEBUG]:config全局配置已加载=====>key: host, value: "https://tbms.taoliweilai.com"
+2024-05-10 15:36:57 [MainProcess]-[MainThread]-[cache.set:26]-[DEBUG]:config全局配置已加载=====>key: account, value: {"user": "19129508913", "pwd": "VddXq/v6e9GFoTjB412ghUuwv11/XoHZzEhNIS5ZVlmzjGaGbHnW8CjuFU0KgSHKiCRQNuyzzFLl7JesgXVEPRasE0e9IalYubripOwBWK6u+OvTIUIgTpW7wwZweEPX1nx2IUdZWmk0ZvEHqeW1uIee5TrqSztm/2A+9RE0xio="}
+2024-05-10 15:37:34 [MainProcess]-[MainThread]-[_printer.wrapper:18]-[INFO]:*************************************🧩 开始初始化环境 🧩*************************************
+2024-05-10 15:37:34 [MainProcess]-[MainThread]-[cache.set:26]-[DEBUG]:config全局配置已加载=====>key: run_mode, value: "main"
+2024-05-10 15:37:34 [MainProcess]-[MainThread]-[cache.set:26]-[DEBUG]:config全局配置已加载=====>key: current_env, value: "test"
+2024-05-10 15:37:34 [MainProcess]-[MainThread]-[cache.set:26]-[DEBUG]:config全局配置已加载=====>key: host, value: "https://tbms.taoliweilai.com"
+2024-05-10 15:37:34 [MainProcess]-[MainThread]-[cache.set:26]-[DEBUG]:config全局配置已加载=====>key: account, value: {"user": "19129508913", "pwd": "VddXq/v6e9GFoTjB412ghUuwv11/XoHZzEhNIS5ZVlmzjGaGbHnW8CjuFU0KgSHKiCRQNuyzzFLl7JesgXVEPRasE0e9IalYubripOwBWK6u+OvTIUIgTpW7wwZweEPX1nx2IUdZWmk0ZvEHqeW1uIee5TrqSztm/2A+9RE0xio="}
+2024-05-17 14:17:18 [MainProcess]-[MainThread]-[_printer.wrapper:18]-[INFO]:*************************************🧩 开始初始化环境 🧩*************************************
+2024-05-17 14:17:18 [MainProcess]-[MainThread]-[cache.set:26]-[DEBUG]:config全局配置已加载=====>key: run_mode, value: "main"
+2024-05-17 14:17:18 [MainProcess]-[MainThread]-[cache.set:26]-[DEBUG]:config全局配置已加载=====>key: current_env, value: "test"
+2024-05-17 14:17:18 [MainProcess]-[MainThread]-[cache.set:26]-[DEBUG]:config全局配置已加载=====>key: host, value: "https://tbms.taoliweilai.com"
+2024-05-17 14:17:18 [MainProcess]-[MainThread]-[cache.set:26]-[DEBUG]:config全局配置已加载=====>key: account, value: {"user": "19129508913", "pwd": "VddXq/v6e9GFoTjB412ghUuwv11/XoHZzEhNIS5ZVlmzjGaGbHnW8CjuFU0KgSHKiCRQNuyzzFLl7JesgXVEPRasE0e9IalYubripOwBWK6u+OvTIUIgTpW7wwZweEPX1nx2IUdZWmk0ZvEHqeW1uIee5TrqSztm/2A+9RE0xio="}
+2024-05-17 14:31:29 [MainProcess]-[MainThread]-[_printer.wrapper:18]-[INFO]:*************************************🧩 开始初始化环境 🧩*************************************
+2024-05-17 14:31:29 [MainProcess]-[MainThread]-[cache.set:26]-[DEBUG]:config全局配置已加载=====>key: run_mode, value: "main"
+2024-05-17 14:31:29 [MainProcess]-[MainThread]-[cache.set:26]-[DEBUG]:config全局配置已加载=====>key: current_env, value: "test"
+2024-05-17 14:31:29 [MainProcess]-[MainThread]-[cache.set:26]-[DEBUG]:config全局配置已加载=====>key: host, value: "https://tbms.taoliweilai.com"
+2024-05-17 14:31:29 [MainProcess]-[MainThread]-[cache.set:26]-[DEBUG]:config全局配置已加载=====>key: account, value: {"user": "19129508913", "pwd": "VddXq/v6e9GFoTjB412ghUuwv11/XoHZzEhNIS5ZVlmzjGaGbHnW8CjuFU0KgSHKiCRQNuyzzFLl7JesgXVEPRasE0e9IalYubripOwBWK6u+OvTIUIgTpW7wwZweEPX1nx2IUdZWmk0ZvEHqeW1uIee5TrqSztm/2A+9RE0xio="}
+2024-05-17 14:34:30 [MainProcess]-[MainThread]-[_printer.wrapper:18]-[INFO]:*************************************🧩 开始初始化环境 🧩*************************************
+2024-05-17 14:34:30 [MainProcess]-[MainThread]-[cache.set:26]-[DEBUG]:config全局配置已加载=====>key: run_mode, value: "main"
+2024-05-17 14:34:30 [MainProcess]-[MainThread]-[cache.set:26]-[DEBUG]:config全局配置已加载=====>key: current_env, value: "test"
+2024-05-17 14:34:30 [MainProcess]-[MainThread]-[cache.set:26]-[DEBUG]:config全局配置已加载=====>key: host, value: "https://tbms.taoliweilai.com"
+2024-05-17 14:34:30 [MainProcess]-[MainThread]-[cache.set:26]-[DEBUG]:config全局配置已加载=====>key: account, value: {"user": "19129508913", "pwd": "VddXq/v6e9GFoTjB412ghUuwv11/XoHZzEhNIS5ZVlmzjGaGbHnW8CjuFU0KgSHKiCRQNuyzzFLl7JesgXVEPRasE0e9IalYubripOwBWK6u+OvTIUIgTpW7wwZweEPX1nx2IUdZWmk0ZvEHqeW1uIee5TrqSztm/2A+9RE0xio="}
+2024-05-17 14:37:13 [MainProcess]-[MainThread]-[_printer.wrapper:18]-[INFO]:*************************************🧩 开始初始化环境 🧩*************************************
+2024-05-17 14:37:13 [MainProcess]-[MainThread]-[cache.set:26]-[DEBUG]:config全局配置已加载=====>key: run_mode, value: "main"
+2024-05-17 14:37:13 [MainProcess]-[MainThread]-[cache.set:26]-[DEBUG]:config全局配置已加载=====>key: current_env, value: "test"
+2024-05-17 14:37:13 [MainProcess]-[MainThread]-[cache.set:26]-[DEBUG]:config全局配置已加载=====>key: host, value: "https://tbms.taoliweilai.com"
+2024-05-17 14:37:13 [MainProcess]-[MainThread]-[cache.set:26]-[DEBUG]:config全局配置已加载=====>key: account, value: {"user": "19129508913", "pwd": "VddXq/v6e9GFoTjB412ghUuwv11/XoHZzEhNIS5ZVlmzjGaGbHnW8CjuFU0KgSHKiCRQNuyzzFLl7JesgXVEPRasE0e9IalYubripOwBWK6u+OvTIUIgTpW7wwZweEPX1nx2IUdZWmk0ZvEHqeW1uIee5TrqSztm/2A+9RE0xio="}
+2024-05-17 14:40:38 [MainProcess]-[MainThread]-[_printer.wrapper:18]-[INFO]:*************************************🧩 开始初始化环境 🧩*************************************
+2024-05-17 14:40:38 [MainProcess]-[MainThread]-[cache.set:26]-[DEBUG]:config全局配置已加载=====>key: run_mode, value: "main"
+2024-05-17 14:40:38 [MainProcess]-[MainThread]-[cache.set:26]-[DEBUG]:config全局配置已加载=====>key: current_env, value: "test"
+2024-05-17 14:40:38 [MainProcess]-[MainThread]-[cache.set:26]-[DEBUG]:config全局配置已加载=====>key: host, value: "https://tbms.taoliweilai.com"
+2024-05-17 14:40:38 [MainProcess]-[MainThread]-[cache.set:26]-[DEBUG]:config全局配置已加载=====>key: account, value: {"user": "19129508913", "pwd": "VddXq/v6e9GFoTjB412ghUuwv11/XoHZzEhNIS5ZVlmzjGaGbHnW8CjuFU0KgSHKiCRQNuyzzFLl7JesgXVEPRasE0e9IalYubripOwBWK6u+OvTIUIgTpW7wwZweEPX1nx2IUdZWmk0ZvEHqeW1uIee5TrqSztm/2A+9RE0xio="}
+2024-05-17 14:42:33 [MainProcess]-[MainThread]-[_printer.wrapper:18]-[INFO]:*************************************🧩 开始初始化环境 🧩*************************************
+2024-05-17 14:42:33 [MainProcess]-[MainThread]-[cache.set:26]-[DEBUG]:config全局配置已加载=====>key: run_mode, value: "main"
+2024-05-17 14:42:33 [MainProcess]-[MainThread]-[cache.set:26]-[DEBUG]:config全局配置已加载=====>key: current_env, value: "test"
+2024-05-17 14:42:33 [MainProcess]-[MainThread]-[cache.set:26]-[DEBUG]:config全局配置已加载=====>key: host, value: "https://tbms.taoliweilai.com"
+2024-05-17 14:42:33 [MainProcess]-[MainThread]-[cache.set:26]-[DEBUG]:config全局配置已加载=====>key: account, value: {"user": "19129508913", "pwd": "VddXq/v6e9GFoTjB412ghUuwv11/XoHZzEhNIS5ZVlmzjGaGbHnW8CjuFU0KgSHKiCRQNuyzzFLl7JesgXVEPRasE0e9IalYubripOwBWK6u+OvTIUIgTpW7wwZweEPX1nx2IUdZWmk0ZvEHqeW1uIee5TrqSztm/2A+9RE0xio="}
+2024-05-17 14:44:25 [MainProcess]-[MainThread]-[_printer.wrapper:18]-[INFO]:*************************************🧩 开始初始化环境 🧩*************************************
+2024-05-17 14:44:25 [MainProcess]-[MainThread]-[cache.set:26]-[DEBUG]:config全局配置已加载=====>key: run_mode, value: "main"
+2024-05-17 14:44:25 [MainProcess]-[MainThread]-[cache.set:26]-[DEBUG]:config全局配置已加载=====>key: current_env, value: "test"
+2024-05-17 14:44:25 [MainProcess]-[MainThread]-[cache.set:26]-[DEBUG]:config全局配置已加载=====>key: host, value: "https://tbms.taoliweilai.com"
+2024-05-17 14:44:25 [MainProcess]-[MainThread]-[cache.set:26]-[DEBUG]:config全局配置已加载=====>key: account, value: {"user": "19129508913", "pwd": "VddXq/v6e9GFoTjB412ghUuwv11/XoHZzEhNIS5ZVlmzjGaGbHnW8CjuFU0KgSHKiCRQNuyzzFLl7JesgXVEPRasE0e9IalYubripOwBWK6u+OvTIUIgTpW7wwZweEPX1nx2IUdZWmk0ZvEHqeW1uIee5TrqSztm/2A+9RE0xio="}
+2024-05-17 14:45:17 [MainProcess]-[MainThread]-[_printer.wrapper:18]-[INFO]:*************************************🧩 开始初始化环境 🧩*************************************
+2024-05-17 14:45:17 [MainProcess]-[MainThread]-[cache.set:26]-[DEBUG]:config全局配置已加载=====>key: run_mode, value: "main"
+2024-05-17 14:45:17 [MainProcess]-[MainThread]-[cache.set:26]-[DEBUG]:config全局配置已加载=====>key: current_env, value: "test"
+2024-05-17 14:45:17 [MainProcess]-[MainThread]-[cache.set:26]-[DEBUG]:config全局配置已加载=====>key: host, value: "https://tbms.taoliweilai.com"
+2024-05-17 14:45:17 [MainProcess]-[MainThread]-[cache.set:26]-[DEBUG]:config全局配置已加载=====>key: account, value: {"user": "19129508913", "pwd": "VddXq/v6e9GFoTjB412ghUuwv11/XoHZzEhNIS5ZVlmzjGaGbHnW8CjuFU0KgSHKiCRQNuyzzFLl7JesgXVEPRasE0e9IalYubripOwBWK6u+OvTIUIgTpW7wwZweEPX1nx2IUdZWmk0ZvEHqeW1uIee5TrqSztm/2A+9RE0xio="}
+2024-05-17 14:45:52 [MainProcess]-[MainThread]-[_printer.wrapper:18]-[INFO]:*************************************🧩 开始初始化环境 🧩*************************************
+2024-05-17 14:45:52 [MainProcess]-[MainThread]-[cache.set:26]-[DEBUG]:config全局配置已加载=====>key: run_mode, value: "main"
+2024-05-17 14:45:52 [MainProcess]-[MainThread]-[cache.set:26]-[DEBUG]:config全局配置已加载=====>key: current_env, value: "test"
+2024-05-17 14:45:52 [MainProcess]-[MainThread]-[cache.set:26]-[DEBUG]:config全局配置已加载=====>key: host, value: "https://tbms.taoliweilai.com"
+2024-05-17 14:45:52 [MainProcess]-[MainThread]-[cache.set:26]-[DEBUG]:config全局配置已加载=====>key: account, value: {"user": "19129508913", "pwd": "VddXq/v6e9GFoTjB412ghUuwv11/XoHZzEhNIS5ZVlmzjGaGbHnW8CjuFU0KgSHKiCRQNuyzzFLl7JesgXVEPRasE0e9IalYubripOwBWK6u+OvTIUIgTpW7wwZweEPX1nx2IUdZWmk0ZvEHqeW1uIee5TrqSztm/2A+9RE0xio="}
+2024-05-17 14:56:06 [MainProcess]-[MainThread]-[_printer.wrapper:18]-[INFO]:*************************************🧩 开始初始化环境 🧩*************************************
+2024-05-17 14:56:06 [MainProcess]-[MainThread]-[cache.set:26]-[DEBUG]:config全局配置已加载=====>key: run_mode, value: "main"
+2024-05-17 14:56:06 [MainProcess]-[MainThread]-[cache.set:26]-[DEBUG]:config全局配置已加载=====>key: current_env, value: "test"
+2024-05-17 14:56:06 [MainProcess]-[MainThread]-[cache.set:26]-[DEBUG]:config全局配置已加载=====>key: host, value: "https://tbms.taoliweilai.com"
+2024-05-17 14:56:06 [MainProcess]-[MainThread]-[cache.set:26]-[DEBUG]:config全局配置已加载=====>key: account, value: {"user": "19129508913", "pwd": "VddXq/v6e9GFoTjB412ghUuwv11/XoHZzEhNIS5ZVlmzjGaGbHnW8CjuFU0KgSHKiCRQNuyzzFLl7JesgXVEPRasE0e9IalYubripOwBWK6u+OvTIUIgTpW7wwZweEPX1nx2IUdZWmk0ZvEHqeW1uIee5TrqSztm/2A+9RE0xio="}
+2024-05-17 14:56:48 [MainProcess]-[MainThread]-[_printer.wrapper:18]-[INFO]:*************************************🧩 开始初始化环境 🧩*************************************
+2024-05-17 14:56:48 [MainProcess]-[MainThread]-[cache.set:26]-[DEBUG]:config全局配置已加载=====>key: run_mode, value: "main"
+2024-05-17 14:56:48 [MainProcess]-[MainThread]-[cache.set:26]-[DEBUG]:config全局配置已加载=====>key: current_env, value: "test"
+2024-05-17 14:56:48 [MainProcess]-[MainThread]-[cache.set:26]-[DEBUG]:config全局配置已加载=====>key: host, value: "https://tbms.taoliweilai.com"
+2024-05-17 14:56:48 [MainProcess]-[MainThread]-[cache.set:26]-[DEBUG]:config全局配置已加载=====>key: account, value: {"user": "19129508913", "pwd": "VddXq/v6e9GFoTjB412ghUuwv11/XoHZzEhNIS5ZVlmzjGaGbHnW8CjuFU0KgSHKiCRQNuyzzFLl7JesgXVEPRasE0e9IalYubripOwBWK6u+OvTIUIgTpW7wwZweEPX1nx2IUdZWmk0ZvEHqeW1uIee5TrqSztm/2A+9RE0xio="}
+2024-05-17 15:31:29 [MainProcess]-[MainThread]-[_printer.wrapper:18]-[INFO]:*************************************🧩 开始初始化环境 🧩*************************************
+2024-05-17 15:31:29 [MainProcess]-[MainThread]-[cache.set:26]-[DEBUG]:config全局配置已加载=====>key: run_mode, value: "main"
+2024-05-17 15:31:29 [MainProcess]-[MainThread]-[cache.set:26]-[DEBUG]:config全局配置已加载=====>key: current_env, value: "test"
+2024-05-17 15:31:29 [MainProcess]-[MainThread]-[cache.set:26]-[DEBUG]:config全局配置已加载=====>key: host, value: "https://tbms.taoliweilai.com"
+2024-05-17 15:31:29 [MainProcess]-[MainThread]-[cache.set:26]-[DEBUG]:config全局配置已加载=====>key: account, value: {"user": "19129508913", "pwd": "VddXq/v6e9GFoTjB412ghUuwv11/XoHZzEhNIS5ZVlmzjGaGbHnW8CjuFU0KgSHKiCRQNuyzzFLl7JesgXVEPRasE0e9IalYubripOwBWK6u+OvTIUIgTpW7wwZweEPX1nx2IUdZWmk0ZvEHqeW1uIee5TrqSztm/2A+9RE0xio="}
+2024-05-17 15:32:52 [MainProcess]-[MainThread]-[_printer.wrapper:18]-[INFO]:*************************************🧩 开始初始化环境 🧩*************************************
+2024-05-17 15:32:52 [MainProcess]-[MainThread]-[cache.set:26]-[DEBUG]:config全局配置已加载=====>key: run_mode, value: "main"
+2024-05-17 15:32:52 [MainProcess]-[MainThread]-[cache.set:26]-[DEBUG]:config全局配置已加载=====>key: current_env, value: "test"
+2024-05-17 15:32:52 [MainProcess]-[MainThread]-[cache.set:26]-[DEBUG]:config全局配置已加载=====>key: host, value: "https://tbms.taoliweilai.com"
+2024-05-17 15:32:52 [MainProcess]-[MainThread]-[cache.set:26]-[DEBUG]:config全局配置已加载=====>key: account, value: {"user": "19129508913", "pwd": "VddXq/v6e9GFoTjB412ghUuwv11/XoHZzEhNIS5ZVlmzjGaGbHnW8CjuFU0KgSHKiCRQNuyzzFLl7JesgXVEPRasE0e9IalYubripOwBWK6u+OvTIUIgTpW7wwZweEPX1nx2IUdZWmk0ZvEHqeW1uIee5TrqSztm/2A+9RE0xio="}
+2024-05-17 15:35:38 [MainProcess]-[MainThread]-[_printer.wrapper:18]-[INFO]:*************************************🧩 开始初始化环境 🧩*************************************
+2024-05-17 15:35:38 [MainProcess]-[MainThread]-[cache.set:26]-[DEBUG]:config全局配置已加载=====>key: run_mode, value: "main"
+2024-05-17 15:35:38 [MainProcess]-[MainThread]-[cache.set:26]-[DEBUG]:config全局配置已加载=====>key: current_env, value: "test"
+2024-05-17 15:35:38 [MainProcess]-[MainThread]-[cache.set:26]-[DEBUG]:config全局配置已加载=====>key: host, value: "https://tbms.taoliweilai.com"
+2024-05-17 15:35:38 [MainProcess]-[MainThread]-[cache.set:26]-[DEBUG]:config全局配置已加载=====>key: account, value: {"user": "19129508913", "pwd": "VddXq/v6e9GFoTjB412ghUuwv11/XoHZzEhNIS5ZVlmzjGaGbHnW8CjuFU0KgSHKiCRQNuyzzFLl7JesgXVEPRasE0e9IalYubripOwBWK6u+OvTIUIgTpW7wwZweEPX1nx2IUdZWmk0ZvEHqeW1uIee5TrqSztm/2A+9RE0xio="}
+2024-05-17 16:22:25 [MainProcess]-[MainThread]-[login.login:30]-[ERROR]:登录失败
+2024-05-17 16:32:33 [MainProcess]-[MainThread]-[_printer.wrapper:18]-[INFO]:*************************************🧩 开始初始化环境 🧩*************************************
+2024-05-17 16:32:33 [MainProcess]-[MainThread]-[cache.set:26]-[DEBUG]:config全局配置已加载=====>key: run_mode, value: "main"
+2024-05-17 16:32:33 [MainProcess]-[MainThread]-[cache.set:26]-[DEBUG]:config全局配置已加载=====>key: current_env, value: "test"
+2024-05-17 16:32:33 [MainProcess]-[MainThread]-[cache.set:26]-[DEBUG]:config全局配置已加载=====>key: host, value: "https://tbms.taoliweilai.com"
+2024-05-17 16:32:33 [MainProcess]-[MainThread]-[cache.set:26]-[DEBUG]:config全局配置已加载=====>key: account, value: {"user": "19129508913", "pwd": "VddXq/v6e9GFoTjB412ghUuwv11/XoHZzEhNIS5ZVlmzjGaGbHnW8CjuFU0KgSHKiCRQNuyzzFLl7JesgXVEPRasE0e9IalYubripOwBWK6u+OvTIUIgTpW7wwZweEPX1nx2IUdZWmk0ZvEHqeW1uIee5TrqSztm/2A+9RE0xio="}
+2024-05-17 16:33:19 [MainProcess]-[MainThread]-[_printer.wrapper:18]-[INFO]:*************************************🧩 开始初始化环境 🧩*************************************
+2024-05-17 16:33:19 [MainProcess]-[MainThread]-[cache.set:26]-[DEBUG]:config全局配置已加载=====>key: run_mode, value: "main"
+2024-05-17 16:33:19 [MainProcess]-[MainThread]-[cache.set:26]-[DEBUG]:config全局配置已加载=====>key: current_env, value: "test"
+2024-05-17 16:33:19 [MainProcess]-[MainThread]-[cache.set:26]-[DEBUG]:config全局配置已加载=====>key: host, value: "https://tbms.taoliweilai.com"
+2024-05-17 16:33:19 [MainProcess]-[MainThread]-[cache.set:26]-[DEBUG]:config全局配置已加载=====>key: account, value: {"user": "19129508913", "pwd": "VddXq/v6e9GFoTjB412ghUuwv11/XoHZzEhNIS5ZVlmzjGaGbHnW8CjuFU0KgSHKiCRQNuyzzFLl7JesgXVEPRasE0e9IalYubripOwBWK6u+OvTIUIgTpW7wwZweEPX1nx2IUdZWmk0ZvEHqeW1uIee5TrqSztm/2A+9RE0xio="}
+2024-05-17 16:34:40 [MainProcess]-[MainThread]-[_printer.wrapper:18]-[INFO]:*************************************🧩 开始初始化环境 🧩*************************************
+2024-05-17 16:34:40 [MainProcess]-[MainThread]-[cache.set:26]-[DEBUG]:config全局配置已加载=====>key: run_mode, value: "main"
+2024-05-17 16:34:40 [MainProcess]-[MainThread]-[cache.set:26]-[DEBUG]:config全局配置已加载=====>key: current_env, value: "test"
+2024-05-17 16:34:40 [MainProcess]-[MainThread]-[cache.set:26]-[DEBUG]:config全局配置已加载=====>key: host, value: "https://tbms.taoliweilai.com"
+2024-05-17 16:34:40 [MainProcess]-[MainThread]-[cache.set:26]-[DEBUG]:config全局配置已加载=====>key: account, value: {"user": "19129508913", "pwd": "VddXq/v6e9GFoTjB412ghUuwv11/XoHZzEhNIS5ZVlmzjGaGbHnW8CjuFU0KgSHKiCRQNuyzzFLl7JesgXVEPRasE0e9IalYubripOwBWK6u+OvTIUIgTpW7wwZweEPX1nx2IUdZWmk0ZvEHqeW1uIee5TrqSztm/2A+9RE0xio="}
+2024-05-17 16:37:50 [MainProcess]-[MainThread]-[_printer.wrapper:18]-[INFO]:*************************************🧩 开始初始化环境 🧩*************************************
+2024-05-17 16:37:50 [MainProcess]-[MainThread]-[cache.set:26]-[DEBUG]:config全局配置已加载=====>key: run_mode, value: "main"
+2024-05-17 16:37:50 [MainProcess]-[MainThread]-[cache.set:26]-[DEBUG]:config全局配置已加载=====>key: current_env, value: "test"
+2024-05-17 16:37:50 [MainProcess]-[MainThread]-[cache.set:26]-[DEBUG]:config全局配置已加载=====>key: host, value: "https://tbms.taoliweilai.com"
+2024-05-17 16:37:50 [MainProcess]-[MainThread]-[cache.set:26]-[DEBUG]:config全局配置已加载=====>key: account, value: {"user": "19129508913", "pwd": "VddXq/v6e9GFoTjB412ghUuwv11/XoHZzEhNIS5ZVlmzjGaGbHnW8CjuFU0KgSHKiCRQNuyzzFLl7JesgXVEPRasE0e9IalYubripOwBWK6u+OvTIUIgTpW7wwZweEPX1nx2IUdZWmk0ZvEHqeW1uIee5TrqSztm/2A+9RE0xio="}
+2024-05-17 16:37:50 [MainProcess]-[MainThread]-[_printer.wrapper:18]-[INFO]:****************************🍺 环境初始化完成，所有全局配置已加载到config表 🍺****************************
+2024-05-17 16:37:50 [MainProcess]-[MainThread]-[runner.run:68]-[INFO]:<AoMaker> 单进程启动
+2024-05-17 16:37:50 [MainProcess]-[MainThread]-[runner.run:69]-[INFO]:<AoMaker> pytest的执行参数：['-m case', '-s', '--alluredir=E:\\py_work\\tlwl_apitest\\reports\\json', '--show-capture=no', '--log-format=%(asctime)s %(message)s', '--log-date-format=%Y-%m-%d %H:%M:%S']
+2024-05-17 16:37:51 [MainProcess]-[MainThread]-[_printer.wrapper:18]-[INFO]:*******************************🌟 测试结束, AoMaker开始收集报告 🌟*******************************
+2024-05-17 16:40:04 [MainProcess]-[MainThread]-[_printer.wrapper:18]-[INFO]:*************************************🧩 开始初始化环境 🧩*************************************
+2024-05-17 16:40:04 [MainProcess]-[MainThread]-[cache.set:26]-[DEBUG]:config全局配置已加载=====>key: run_mode, value: "main"
+2024-05-17 16:40:04 [MainProcess]-[MainThread]-[cache.set:26]-[DEBUG]:config全局配置已加载=====>key: current_env, value: "test"
+2024-05-17 16:40:04 [MainProcess]-[MainThread]-[cache.set:26]-[DEBUG]:config全局配置已加载=====>key: host, value: "https://tbms.taoliweilai.com"
+2024-05-17 16:40:04 [MainProcess]-[MainThread]-[cache.set:26]-[DEBUG]:config全局配置已加载=====>key: account, value: {"user": "19129508913", "pwd": "VddXq/v6e9GFoTjB412ghUuwv11/XoHZzEhNIS5ZVlmzjGaGbHnW8CjuFU0KgSHKiCRQNuyzzFLl7JesgXVEPRasE0e9IalYubripOwBWK6u+OvTIUIgTpW7wwZweEPX1nx2IUdZWmk0ZvEHqeW1uIee5TrqSztm/2A+9RE0xio="}
+2024-05-17 16:40:05 [MainProcess]-[MainThread]-[cache.set:121]-[DEBUG]:缓存插入重复数据, key:headers，worker:MainProcess，已被忽略！
+2024-05-17 16:40:05 [MainProcess]-[MainThread]-[_printer.wrapper:18]-[INFO]:****************************🍺 环境初始化完成，所有全局配置已加载到config表 🍺****************************
+2024-05-17 16:40:05 [MainProcess]-[MainThread]-[runner.run:68]-[INFO]:<AoMaker> 单进程启动
+2024-05-17 16:40:05 [MainProcess]-[MainThread]-[runner.run:69]-[INFO]:<AoMaker> pytest的执行参数：['-m case', '-s', '--alluredir=E:\\py_work\\tlwl_apitest\\reports\\json', '--show-capture=no', '--log-format=%(asctime)s %(message)s', '--log-date-format=%Y-%m-%d %H:%M:%S']
+2024-05-17 16:40:05 [MainProcess]-[MainThread]-[_printer.wrapper:18]-[INFO]:*******************************🌟 测试结束, AoMaker开始收集报告 🌟*******************************
+2024-05-17 16:41:51 [MainProcess]-[MainThread]-[_printer.wrapper:18]-[INFO]:*************************************🧩 开始初始化环境 🧩*************************************
+2024-05-17 16:41:51 [MainProcess]-[MainThread]-[cache.set:26]-[DEBUG]:config全局配置已加载=====>key: run_mode, value: "main"
+2024-05-17 16:41:51 [MainProcess]-[MainThread]-[cache.set:26]-[DEBUG]:config全局配置已加载=====>key: current_env, value: "test"
+2024-05-17 16:41:51 [MainProcess]-[MainThread]-[cache.set:26]-[DEBUG]:config全局配置已加载=====>key: host, value: "https://tbms.taoliweilai.com"
+2024-05-17 16:41:51 [MainProcess]-[MainThread]-[cache.set:26]-[DEBUG]:config全局配置已加载=====>key: account, value: {"user": "19129508913", "pwd": "VddXq/v6e9GFoTjB412ghUuwv11/XoHZzEhNIS5ZVlmzjGaGbHnW8CjuFU0KgSHKiCRQNuyzzFLl7JesgXVEPRasE0e9IalYubripOwBWK6u+OvTIUIgTpW7wwZweEPX1nx2IUdZWmk0ZvEHqeW1uIee5TrqSztm/2A+9RE0xio="}
+2024-05-17 16:41:51 [MainProcess]-[MainThread]-[cache.set:121]-[DEBUG]:缓存插入重复数据, key:headers，worker:MainProcess，已被忽略！
+2024-05-17 16:41:51 [MainProcess]-[MainThread]-[_printer.wrapper:18]-[INFO]:****************************🍺 环境初始化完成，所有全局配置已加载到config表 🍺****************************
+2024-05-17 16:41:51 [MainProcess]-[MainThread]-[runner.run:68]-[INFO]:<AoMaker> 单进程启动
+2024-05-17 16:41:51 [MainProcess]-[MainThread]-[runner.run:69]-[INFO]:<AoMaker> pytest的执行参数：['-m case', '-s', '--alluredir=E:\\py_work\\tlwl_apitest\\reports\\json', '--show-capture=no', '--log-format=%(asctime)s %(message)s', '--log-date-format=%Y-%m-%d %H:%M:%S']
+2024-05-17 16:41:51 [MainProcess]-[MainThread]-[_printer.wrapper:18]-[INFO]:*******************************🌟 测试结束, AoMaker开始收集报告 🌟*******************************
+2024-05-17 17:06:31 [MainProcess]-[MainThread]-[_printer.wrapper:18]-[INFO]:*************************************🧩 开始初始化环境 🧩*************************************
+2024-05-17 17:06:31 [MainProcess]-[MainThread]-[cache.set:26]-[DEBUG]:config全局配置已加载=====>key: run_mode, value: "main"
+2024-05-17 17:06:31 [MainProcess]-[MainThread]-[cache.set:26]-[DEBUG]:config全局配置已加载=====>key: current_env, value: "test"
+2024-05-17 17:06:31 [MainProcess]-[MainThread]-[cache.set:26]-[DEBUG]:config全局配置已加载=====>key: host, value: "https://tbms.taoliweilai.com"
+2024-05-17 17:06:31 [MainProcess]-[MainThread]-[cache.set:26]-[DEBUG]:config全局配置已加载=====>key: account, value: {"user": "19129508913", "pwd": "VddXq/v6e9GFoTjB412ghUuwv11/XoHZzEhNIS5ZVlmzjGaGbHnW8CjuFU0KgSHKiCRQNuyzzFLl7JesgXVEPRasE0e9IalYubripOwBWK6u+OvTIUIgTpW7wwZweEPX1nx2IUdZWmk0ZvEHqeW1uIee5TrqSztm/2A+9RE0xio="}
+2024-05-17 17:06:32 [MainProcess]-[MainThread]-[cache.set:121]-[DEBUG]:缓存插入重复数据, key:headers，worker:MainProcess，已被忽略！
+2024-05-17 17:06:32 [MainProcess]-[MainThread]-[_printer.wrapper:18]-[INFO]:****************************🍺 环境初始化完成，所有全局配置已加载到config表 🍺****************************
+2024-05-17 17:06:32 [MainProcess]-[MainThread]-[runner.run:68]-[INFO]:<AoMaker> 单进程启动
+2024-05-17 17:06:32 [MainProcess]-[MainThread]-[runner.run:69]-[INFO]:<AoMaker> pytest的执行参数：['-m case', '-s', '--alluredir=E:\\py_work\\tlwl_apitest\\reports\\json', '--show-capture=no', '--log-format=%(asctime)s %(message)s', '--log-date-format=%Y-%m-%d %H:%M:%S']
+2024-05-17 17:06:32 [MainProcess]-[MainThread]-[_printer.wrapper:18]-[INFO]:*******************************🌟 测试结束, AoMaker开始收集报告 🌟*******************************
+2024-05-17 17:10:14 [MainProcess]-[MainThread]-[_printer.wrapper:18]-[INFO]:*************************************🧩 开始初始化环境 🧩*************************************
+2024-05-17 17:10:14 [MainProcess]-[MainThread]-[cache.set:26]-[DEBUG]:config全局配置已加载=====>key: run_mode, value: "main"
+2024-05-17 17:10:14 [MainProcess]-[MainThread]-[cache.set:26]-[DEBUG]:config全局配置已加载=====>key: current_env, value: "test"
+2024-05-17 17:10:14 [MainProcess]-[MainThread]-[cache.set:26]-[DEBUG]:config全局配置已加载=====>key: host, value: "https://tbms.taoliweilai.com"
+2024-05-17 17:10:14 [MainProcess]-[MainThread]-[cache.set:26]-[DEBUG]:config全局配置已加载=====>key: account, value: {"user": "19129508913", "pwd": "VddXq/v6e9GFoTjB412ghUuwv11/XoHZzEhNIS5ZVlmzjGaGbHnW8CjuFU0KgSHKiCRQNuyzzFLl7JesgXVEPRasE0e9IalYubripOwBWK6u+OvTIUIgTpW7wwZweEPX1nx2IUdZWmk0ZvEHqeW1uIee5TrqSztm/2A+9RE0xio="}
+2024-05-17 17:10:14 [MainProcess]-[MainThread]-[cache.set:121]-[DEBUG]:缓存插入重复数据, key:headers，worker:MainProcess，已被忽略！
+2024-05-17 17:10:14 [MainProcess]-[MainThread]-[_printer.wrapper:18]-[INFO]:****************************🍺 环境初始化完成，所有全局配置已加载到config表 🍺****************************
+2024-05-17 17:10:14 [MainProcess]-[MainThread]-[runner.run:68]-[INFO]:<AoMaker> 单进程启动
+2024-05-17 17:10:14 [MainProcess]-[MainThread]-[runner.run:69]-[INFO]:<AoMaker> pytest的执行参数：['-m case', '-s', '--alluredir=E:\\py_work\\tlwl_apitest\\reports\\json', '--show-capture=no', '--log-format=%(asctime)s %(message)s', '--log-date-format=%Y-%m-%d %H:%M:%S']
+2024-05-17 17:10:14 [MainProcess]-[MainThread]-[_printer.wrapper:18]-[INFO]:*******************************🌟 测试结束, AoMaker开始收集报告 🌟*******************************
+2024-05-17 17:22:46 [MainProcess]-[MainThread]-[_printer.wrapper:18]-[INFO]:*************************************🧩 开始初始化环境 🧩*************************************
+2024-05-17 17:22:46 [MainProcess]-[MainThread]-[cache.set:26]-[DEBUG]:config全局配置已加载=====>key: run_mode, value: "main"
+2024-05-17 17:22:46 [MainProcess]-[MainThread]-[cache.set:26]-[DEBUG]:config全局配置已加载=====>key: current_env, value: "test"
+2024-05-17 17:22:46 [MainProcess]-[MainThread]-[cache.set:26]-[DEBUG]:config全局配置已加载=====>key: host, value: "https://tbms.taoliweilai.com"
+2024-05-17 17:22:46 [MainProcess]-[MainThread]-[cache.set:26]-[DEBUG]:config全局配置已加载=====>key: account, value: {"user": "19129508913", "pwd": "VddXq/v6e9GFoTjB412ghUuwv11/XoHZzEhNIS5ZVlmzjGaGbHnW8CjuFU0KgSHKiCRQNuyzzFLl7JesgXVEPRasE0e9IalYubripOwBWK6u+OvTIUIgTpW7wwZweEPX1nx2IUdZWmk0ZvEHqeW1uIee5TrqSztm/2A+9RE0xio="}
+2024-05-17 17:22:46 [MainProcess]-[MainThread]-[cache.set:121]-[DEBUG]:缓存插入重复数据, key:headers，worker:MainProcess，已被忽略！
+2024-05-17 17:22:46 [MainProcess]-[MainThread]-[_printer.wrapper:18]-[INFO]:****************************🍺 环境初始化完成，所有全局配置已加载到config表 🍺****************************
+2024-05-17 17:22:46 [MainProcess]-[MainThread]-[runner.run:68]-[INFO]:<AoMaker> 单进程启动
+2024-05-17 17:22:46 [MainProcess]-[MainThread]-[runner.run:69]-[INFO]:<AoMaker> pytest的执行参数：['-m case', '-s', '--alluredir=E:\\py_work\\tlwl_apitest\\reports\\json', '--show-capture=no', '--log-format=%(asctime)s %(message)s', '--log-date-format=%Y-%m-%d %H:%M:%S']
+2024-05-17 17:22:46 [MainProcess]-[MainThread]-[_printer.wrapper:18]-[INFO]:*******************************🌟 测试结束, AoMaker开始收集报告 🌟*******************************
+2024-05-17 17:57:30 [MainProcess]-[MainThread]-[_printer.wrapper:18]-[INFO]:*************************************🧩 开始初始化环境 🧩*************************************
+2024-05-17 17:57:30 [MainProcess]-[MainThread]-[cache.set:26]-[DEBUG]:config全局配置已加载=====>key: run_mode, value: "main"
+2024-05-17 17:57:30 [MainProcess]-[MainThread]-[cache.set:26]-[DEBUG]:config全局配置已加载=====>key: current_env, value: "test"
+2024-05-17 17:57:30 [MainProcess]-[MainThread]-[cache.set:26]-[DEBUG]:config全局配置已加载=====>key: host, value: "https://tbms.taoliweilai.com"
+2024-05-17 17:57:30 [MainProcess]-[MainThread]-[cache.set:26]-[DEBUG]:config全局配置已加载=====>key: account, value: {"user": "19129508913", "pwd": "VddXq/v6e9GFoTjB412ghUuwv11/XoHZzEhNIS5ZVlmzjGaGbHnW8CjuFU0KgSHKiCRQNuyzzFLl7JesgXVEPRasE0e9IalYubripOwBWK6u+OvTIUIgTpW7wwZweEPX1nx2IUdZWmk0ZvEHqeW1uIee5TrqSztm/2A+9RE0xio="}
+2024-05-17 17:57:30 [MainProcess]-[MainThread]-[cache.set:121]-[DEBUG]:缓存插入重复数据, key:headers，worker:MainProcess，已被忽略！
+2024-05-17 17:57:30 [MainProcess]-[MainThread]-[_printer.wrapper:18]-[INFO]:****************************🍺 环境初始化完成，所有全局配置已加载到config表 🍺****************************
+2024-05-17 17:57:30 [MainProcess]-[MainThread]-[runner.run:68]-[INFO]:<AoMaker> 单进程启动
+2024-05-17 17:57:30 [MainProcess]-[MainThread]-[runner.run:69]-[INFO]:<AoMaker> pytest的执行参数：['-m case', '-s', '--alluredir=E:\\py_work\\tlwl_apitest\\reports\\json', '--show-capture=no', '--log-format=%(asctime)s %(message)s', '--log-date-format=%Y-%m-%d %H:%M:%S']
+2024-05-17 17:57:30 [MainProcess]-[MainThread]-[_printer.wrapper:18]-[INFO]:*******************************🌟 测试结束, AoMaker开始收集报告 🌟*******************************
+2024-05-17 18:53:57 [MainProcess]-[MainThread]-[_printer.wrapper:18]-[INFO]:*************************************🧩 开始初始化环境 🧩*************************************
+2024-05-17 18:53:57 [MainProcess]-[MainThread]-[cache.set:26]-[DEBUG]:config全局配置已加载=====>key: run_mode, value: "main"
+2024-05-17 18:53:57 [MainProcess]-[MainThread]-[cache.set:26]-[DEBUG]:config全局配置已加载=====>key: current_env, value: "test"
+2024-05-17 18:53:57 [MainProcess]-[MainThread]-[cache.set:26]-[DEBUG]:config全局配置已加载=====>key: host, value: "https://tbms.taoliweilai.com"
+2024-05-17 18:53:57 [MainProcess]-[MainThread]-[cache.set:26]-[DEBUG]:config全局配置已加载=====>key: account, value: {"user": "19129508913", "pwd": "VddXq/v6e9GFoTjB412ghUuwv11/XoHZzEhNIS5ZVlmzjGaGbHnW8CjuFU0KgSHKiCRQNuyzzFLl7JesgXVEPRasE0e9IalYubripOwBWK6u+OvTIUIgTpW7wwZweEPX1nx2IUdZWmk0ZvEHqeW1uIee5TrqSztm/2A+9RE0xio="}
+2024-05-17 18:53:57 [MainProcess]-[MainThread]-[cache.set:121]-[DEBUG]:缓存插入重复数据, key:headers，worker:MainProcess，已被忽略！
+2024-05-17 18:53:57 [MainProcess]-[MainThread]-[_printer.wrapper:18]-[INFO]:****************************🍺 环境初始化完成，所有全局配置已加载到config表 🍺****************************
+2024-05-17 18:53:57 [MainProcess]-[MainThread]-[runner.run:68]-[INFO]:<AoMaker> 单进程启动
+2024-05-17 18:53:57 [MainProcess]-[MainThread]-[runner.run:69]-[INFO]:<AoMaker> pytest的执行参数：['-m case', '-s', '--alluredir=E:\\py_work\\tlwl_apitest\\reports\\json', '--show-capture=no', '--log-format=%(asctime)s %(message)s', '--log-date-format=%Y-%m-%d %H:%M:%S']
+2024-05-17 18:53:57 [MainProcess]-[MainThread]-[_printer.wrapper:18]-[INFO]:*******************************🌟 测试结束, AoMaker开始收集报告 🌟*******************************
+2024-05-18 15:07:35 [MainProcess]-[MainThread]-[_printer.wrapper:18]-[INFO]:*************************************🧩 开始初始化环境 🧩*************************************
+2024-05-18 15:07:35 [MainProcess]-[MainThread]-[cache.set:26]-[DEBUG]:config全局配置已加载=====>key: run_mode, value: "main"
+2024-05-18 15:07:35 [MainProcess]-[MainThread]-[cache.set:26]-[DEBUG]:config全局配置已加载=====>key: current_env, value: "test"
+2024-05-18 15:07:35 [MainProcess]-[MainThread]-[cache.set:26]-[DEBUG]:config全局配置已加载=====>key: host, value: "https://tbms.taoliweilai.com"
+2024-05-18 15:07:35 [MainProcess]-[MainThread]-[cache.set:26]-[DEBUG]:config全局配置已加载=====>key: account, value: {"user": "19129508913", "pwd": "VddXq/v6e9GFoTjB412ghUuwv11/XoHZzEhNIS5ZVlmzjGaGbHnW8CjuFU0KgSHKiCRQNuyzzFLl7JesgXVEPRasE0e9IalYubripOwBWK6u+OvTIUIgTpW7wwZweEPX1nx2IUdZWmk0ZvEHqeW1uIee5TrqSztm/2A+9RE0xio="}
+2024-05-18 15:07:36 [MainProcess]-[MainThread]-[cache.set:121]-[DEBUG]:缓存插入重复数据, key:headers，worker:MainProcess，已被忽略！
+2024-05-18 15:07:36 [MainProcess]-[MainThread]-[_printer.wrapper:18]-[INFO]:****************************🍺 环境初始化完成，所有全局配置已加载到config表 🍺****************************
+2024-05-18 15:07:36 [MainProcess]-[MainThread]-[runner.run:68]-[INFO]:<AoMaker> 单进程启动
+2024-05-18 15:07:36 [MainProcess]-[MainThread]-[runner.run:69]-[INFO]:<AoMaker> pytest的执行参数：['-m case', '-s', '--alluredir=E:\\py_work\\tlwl_apitest\\reports\\json', '--show-capture=no', '--log-format=%(asctime)s %(message)s', '--log-date-format=%Y-%m-%d %H:%M:%S']
+2024-05-18 15:07:36 [MainProcess]-[MainThread]-[_printer.wrapper:18]-[INFO]:*******************************🌟 测试结束, AoMaker开始收集报告 🌟*******************************
+2024-05-18 15:59:11 [MainProcess]-[MainThread]-[_printer.wrapper:18]-[INFO]:*************************************🧩 开始初始化环境 🧩*************************************
+2024-05-18 15:59:11 [MainProcess]-[MainThread]-[cache.set:26]-[DEBUG]:config全局配置已加载=====>key: run_mode, value: "main"
+2024-05-18 15:59:11 [MainProcess]-[MainThread]-[cache.set:26]-[DEBUG]:config全局配置已加载=====>key: current_env, value: "test"
+2024-05-18 15:59:11 [MainProcess]-[MainThread]-[cache.set:26]-[DEBUG]:config全局配置已加载=====>key: host, value: "https://tbms.taoliweilai.com"
+2024-05-18 15:59:11 [MainProcess]-[MainThread]-[cache.set:26]-[DEBUG]:config全局配置已加载=====>key: account, value: {"user": "19129508913", "pwd": "VddXq/v6e9GFoTjB412ghUuwv11/XoHZzEhNIS5ZVlmzjGaGbHnW8CjuFU0KgSHKiCRQNuyzzFLl7JesgXVEPRasE0e9IalYubripOwBWK6u+OvTIUIgTpW7wwZweEPX1nx2IUdZWmk0ZvEHqeW1uIee5TrqSztm/2A+9RE0xio="}
+2024-05-18 15:59:11 [MainProcess]-[MainThread]-[cache.set:121]-[DEBUG]:缓存插入重复数据, key:headers，worker:MainProcess，已被忽略！
+2024-05-18 15:59:11 [MainProcess]-[MainThread]-[_printer.wrapper:18]-[INFO]:****************************🍺 环境初始化完成，所有全局配置已加载到config表 🍺****************************
+2024-05-18 15:59:11 [MainProcess]-[MainThread]-[runner.run:68]-[INFO]:<AoMaker> 单进程启动
+2024-05-18 15:59:11 [MainProcess]-[MainThread]-[runner.run:69]-[INFO]:<AoMaker> pytest的执行参数：['-m case', '-s', '--alluredir=E:\\py_work\\tlwl_apitest\\reports\\json', '--show-capture=no', '--log-format=%(asctime)s %(message)s', '--log-date-format=%Y-%m-%d %H:%M:%S']
+2024-05-18 15:59:11 [MainProcess]-[MainThread]-[_printer.wrapper:18]-[INFO]:*******************************🌟 测试结束, AoMaker开始收集报告 🌟*******************************

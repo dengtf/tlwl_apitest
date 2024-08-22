@@ -1,0 +1,3 @@
+case:
+  student_case:
+    - name: "test_student_account"
